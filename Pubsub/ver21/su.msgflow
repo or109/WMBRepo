@@ -6,7 +6,7 @@
     <colorGraphic16 xmi:type="utility:GIFFileGraphic" resourceName="platform:/plugin/Pubsub/icons/full/obj16/su.gif"/>
     <colorGraphic32 xmi:type="utility:GIFFileGraphic" resourceName="platform:/plugin/Pubsub/icons/full/obj30/su.gif"/>
     <composition>
-      <nodes xmi:type="ComIbmCompute.msgnode:FCMComposite_1" xmi:id="FCMComposite_1_1" location="124,192" computeExpression="esql://routine/ver21#su_Compute.Main">
+      <nodes xmi:type="ComIbmCompute.msgnode:FCMComposite_1" xmi:id="FCMComposite_1_1" location="136,97" computeExpression="esql://routine/ver21#su_Compute.Main">
         <translation xmi:type="utility:ConstantString" string="Compute"/>
       </nodes>
     </composition>
