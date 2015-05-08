@@ -3,6 +3,7 @@
 	<name>Pubsub</name>
 	<comment></comment>
 	<projects>
+		<project>Infra.LIB</project>
 		<project>Lib.WS</project>
 	</projects>
 	<buildSpec>
